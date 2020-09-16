@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_方法", "05_方法\05_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_通过表达式声明方法", "06_通过表达式声明方法\06_通过表达式声明方法.csproj", "{0D9F2997-24DA-434E-9F36-43708AB45DB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Ref参数", "07_Ref参数\07_Ref参数.csproj", "{D623B6EF-17CD-4A3C-B68B-796A02D457C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_out输出参数", "08_out输出参数\08_out输出参数.csproj", "{CEADE397-96B3-4279-9C74-06B3EF206C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D623B6EF-17CD-4A3C-B68B-796A02D457C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D623B6EF-17CD-4A3C-B68B-796A02D457C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D623B6EF-17CD-4A3C-B68B-796A02D457C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D623B6EF-17CD-4A3C-B68B-796A02D457C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
