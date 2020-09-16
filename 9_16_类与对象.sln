@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_只读字段", "04_只�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_方法", "05_方法\05_方法.csproj", "{CF2E0BB5-1E76-49A4-8273-1C347583BC59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_通过表达式声明方法", "06_通过表达式声明方法\06_通过表达式声明方法.csproj", "{0D9F2997-24DA-434E-9F36-43708AB45DB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9F2997-24DA-434E-9F36-43708AB45DB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
