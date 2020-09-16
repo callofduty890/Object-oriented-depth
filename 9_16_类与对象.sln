@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Ref参数", "07_Ref参�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_out输出参数", "08_out输出参数\08_out输出参数.csproj", "{CEADE397-96B3-4279-9C74-06B3EF206C13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_可选参数", "09_可选参数\09_可选参数.csproj", "{8F77675C-8903-43F8-82AB-A71C9B868C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_可变参数_Params", "10_可变参数_Params\10_可变参数_Params.csproj", "{8CD9C354-D34C-40BE-B646-5512D49D74E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEADE397-96B3-4279-9C74-06B3EF206C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F77675C-8903-43F8-82AB-A71C9B868C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F77675C-8903-43F8-82AB-A71C9B868C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F77675C-8903-43F8-82AB-A71C9B868C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F77675C-8903-43F8-82AB-A71C9B868C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD9C354-D34C-40BE-B646-5512D49D74E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD9C354-D34C-40BE-B646-5512D49D74E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD9C354-D34C-40BE-B646-5512D49D74E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD9C354-D34C-40BE-B646-5512D49D74E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
