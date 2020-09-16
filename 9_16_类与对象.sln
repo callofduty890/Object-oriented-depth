@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_访问修饰符", "02_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_常量", "03_常量与字段\03_常量.csproj", "{8B7E5892-695C-4FBF-B102-791F276D57FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_只读字段", "04_只读字段\04_只读字段.csproj", "{B0A75FD7-5641-4DB9-BB67-5B17CD0722CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_方法", "05_方法\05_方法.csproj", "{CF2E0BB5-1E76-49A4-8273-1C347583BC59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8B7E5892-695C-4FBF-B102-791F276D57FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7E5892-695C-4FBF-B102-791F276D57FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7E5892-695C-4FBF-B102-791F276D57FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A75FD7-5641-4DB9-BB67-5B17CD0722CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A75FD7-5641-4DB9-BB67-5B17CD0722CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A75FD7-5641-4DB9-BB67-5B17CD0722CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A75FD7-5641-4DB9-BB67-5B17CD0722CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2E0BB5-1E76-49A4-8273-1C347583BC59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
